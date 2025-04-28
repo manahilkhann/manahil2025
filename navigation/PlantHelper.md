@@ -29,8 +29,8 @@ permalink: /PlantHelper/
             width: 350px;
             text-align: center;
         }
-        h1 {
-            color: #4CAF50;
+        h3 {
+            color:rgb(35, 77, 37);
             font-size: 24px;
         }
         label {
