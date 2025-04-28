@@ -185,7 +185,6 @@ permalink: /PlantHelper/
             color: #721c24;
         }
     </style>
-</head>
 <body>
     <div class="container">
         <h1>🌱 Plant Watering Reminder 🌱</h1>
@@ -237,4 +236,3 @@ permalink: /PlantHelper/
         }
     </script>
 </body>
-</html>
